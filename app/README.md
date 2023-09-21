@@ -18,7 +18,7 @@ _Or:_
 
 _Or:_
 
-**ciiu_id = "111219"<br>**
+**ciiu_id = "0111"<br>**
 **result_dict = ciiu_id_to_scian(ciiu_id)<br>**
 
 _Or:_
