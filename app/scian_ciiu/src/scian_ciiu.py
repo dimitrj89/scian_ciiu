@@ -1,10 +1,11 @@
+from typing import Dict
+
 from .search import (
-    SearchByScianId,
-    SearchByScianString,
     SearchByCiiuId,
     SearchByCiiuString,
+    SearchByScianId,
+    SearchByScianString,
 )
-from typing import Dict
 
 
 def scian_id_to_ciiu(scian: str) -> Dict:

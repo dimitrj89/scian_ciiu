@@ -1,5 +1,6 @@
-from typing import List, Dict
 from abc import ABC
+from typing import Dict
+
 from .data import data
 
 

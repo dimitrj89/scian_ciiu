@@ -1,8 +1,8 @@
 from scian_ciiu import (
+    ciiu_id_to_scian,
+    ciiu_string_to_scian,
     scian_id_to_ciiu,
     scian_string_to_ciiu,
-    ciiu_id_to_scian,
-    ciiu_string_to_scian
 )
 
 print(scian_id_to_ciiu("111219"))

@@ -4,7 +4,7 @@ A library to search the corresponding mexican scian/ciiu given an input paramete
 ## How to use
 _After installing the package use following import:_ <br>
 
-**from scian-ciiu import scian_id_to_ciiu, scian_string_to_ciiu, ciiu_id_to_scian, ciiu_string_to_scian**
+**from scian_ciiu import scian_id_to_ciiu, scian_string_to_ciiu, ciiu_id_to_scian, ciiu_string_to_scian**
 
 _Then use following commands:_
 

@@ -5,13 +5,13 @@ with open("app/README.md") as f:
 
 setup(
     name = "scian_ciiu",
-    version = "0.0.10",
+    version = "0.0.13",
     description = "A library to search the corresponding mexican scian or ciiu given an input parameter",
     package_dir = {"":"app"},
     packages = find_packages(where="app"),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/dimitrj89/scian_ciiu",
     author="Dimitrj Bonansea",
     author_email="dimitrj22@gmail.com",
     license="MIT",
