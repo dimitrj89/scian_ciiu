@@ -1,2 +1,2 @@
 # SCIAN-CIIU
-A library to search the corresponding mexican scian/ciiu given an input parameter
+A library that return the corresponding mexican scian or ciiu given an input parameter
