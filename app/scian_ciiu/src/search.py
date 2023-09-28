@@ -6,7 +6,7 @@ from .data import data
 
 class Search(ABC):
     def find(self, input: str) -> Dict:
-        """function that retun the list of results"""
+        """function that retun a dictionary with the search results"""
 
 
 class SearchByScianId(Search):
